@@ -35,7 +35,7 @@ jobs:
       - name: npm install
         run: |
           npm install
-      - name: '运行 【东东超市兑换奖品】'
+      - name: '运行 【口袋书店】'
         run: |
           node ./jd/jd_bookshop.js
         env:
