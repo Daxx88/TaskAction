@@ -8,9 +8,9 @@ on:
   schedule:
     - cron: '10 7 * * *'
   watch:
-    types: started
+    types: [started]
   repository_dispatch:
-    types: joy
+    types: bean_home
 jobs:
   build:
 
