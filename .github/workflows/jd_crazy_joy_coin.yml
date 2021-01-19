@@ -6,9 +6,9 @@ name: jd_crazy_joy_coin
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 18 * *'
+    - cron: '0 17 * *'
   watch:
-    types: started
+    types: [started]
   repository_dispatch:
     types: superMarket
 jobs:
@@ -35,7 +35,7 @@ jobs:
       - name: npm install
         run: |
           npm install
-      - name: '运行 【疯狂的JOY挂机】'
+      - name: '运行 【疯狂的JOY】'
         run: |
           node ./jd/jd_crazy_joy_coin.js
               env:
