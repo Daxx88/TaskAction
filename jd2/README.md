@@ -1,4 +1,3 @@
-## 请勿使用github action、滥用github资源会封我仓库以及账号，如再被封，则金盆洗手。[详见](https://github.com/LXK9301/jd_scripts/issues/3)
 
 ## 特别声明: 
 
@@ -144,9 +143,6 @@
 
 - QuantumultX cookie脚本订阅链接: [lxk0301_cookies.conf](https://raw.githubusercontent.com/LXK9301/jd_scripts/master/QuantumultX/lxk0301_cookies.conf)
 
-## 赞赏码(开发维护不易,请赏杯茶水费)
-
-<div align=center><img width="250" height="250" src="./icon/thanks.jpg"/></div>
 
 ## 特别感谢(排名不分先后)：
 
